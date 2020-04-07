@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstLook</string>
+    <string name="button">Click Me</string>
+    <string name="show_text">"Show Me Now "</string>
+</resources>

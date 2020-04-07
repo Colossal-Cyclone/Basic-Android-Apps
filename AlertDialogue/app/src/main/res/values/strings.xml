@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alert Dialogue</string>
+    <string name="button">Click Here</string>
+    <string name="title">Alert Dialogue</string>
+    <string name="message">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>

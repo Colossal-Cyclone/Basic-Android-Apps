@@ -1,0 +1,2 @@
+rootProject.name='Alert Dialogue'
+include ':app'
