@@ -1,2 +1,2 @@
 # Basic-Android-Apps
-Simple apps to learn android app development
+Simple apps I made while learning android app development using Android Studio(Java).
